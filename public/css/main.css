@@ -1,0 +1,17 @@
+
+.hidden {
+  display: none;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+body
+  {
+    background-image: url("https://gallery.yopriceville.com/var/albums/Backgrounds/Summer_Cruise_Ship_Background.jpg?m=1459816371");
+.header 
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
